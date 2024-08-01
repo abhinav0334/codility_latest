@@ -8,4 +8,5 @@ fun GetPostApiResponse.toPostsEntities(): List<PostEntity> {
         PostEntity(
             schemeCode = currentObject.schemeCode.toString(),
             schemeName = currentObject.schemeName.toString())
-    }}
+    }
+}
