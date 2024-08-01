@@ -158,3 +158,7 @@ class PostScreenViewModel(
 }
 ```
 This example showcases how the CoreViewModel class, safeFlowBuilder, and GetAllPostsUseCase work together to handle the API call and manage the UI states seamlessly.
+
+## App Screenshot
+
+![image (12)](https://github.com/user-attachments/assets/93ce4e28-7cf1-4488-80ff-b0ffbcf059a0)
